@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋my name is Amir 
+Im currently work at burger king 
+Im currently learing cybersecurity at leeds beckett uni
+My dream job is Quality Assurence or Test Automation 
+My current goal is to get a first class on the cybersecurity course im currently undertaking 
+
 
 <!--
 **Amir786x/Amir786x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
