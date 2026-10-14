@@ -8,8 +8,7 @@ I'm a second-year BSc Cyber Security student at Leeds Beckett University, aiming
 - Hands-on labs on TryHackMe and PortSwigger Web Security Academy
 
 ### Currently
-- Studying ethical hacking, digital forensics and networking
+- Second-year modules: Cyber Security Landscapes, Digital Forensic Processing, Digital Forensic Analysis, Database Systems, Web and Network Security, and a Team Project
 - Building practical security skills through lab work and uni projects
 
-### Contact
-- LinkedIn: https://www.linkedin.com/in/amir-zabair-b3799a291
+
