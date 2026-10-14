@@ -1,21 +1,15 @@
-## Hi there 👋my name is Amir 
-Im currently work at burger king 
-Im currently learing cybersecurity at leeds beckett uni
-My dream job is Quality Assurence or Test Automation 
-My current goal is to get a first class on the cybersecurity course im currently undertaking 
+## Hi, I'm Amir
 
+I'm a second-year BSc Cyber Security student at Leeds Beckett University, aiming to start my career as a SOC analyst and move into penetration testing.
 
-<!--
-**Amir786x/Amir786x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm working with
+- Linux, Wireshark, Nmap, Burp Suite
+- Python and object-oriented programming
+- Hands-on labs on TryHackMe and PortSwigger Web Security Academy
 
-Here are some ideas to get you started:
+### Currently
+- Studying ethical hacking, digital forensics and networking
+- Building practical security skills through lab work and uni projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- LinkedIn: https://www.linkedin.com/in/amir-zabair-b3799a291
